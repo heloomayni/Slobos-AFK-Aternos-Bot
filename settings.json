@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "botnekku",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "smp3982.aternos.me",
